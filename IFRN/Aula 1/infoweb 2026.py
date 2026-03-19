@@ -16,5 +16,3 @@ if DIACON <= DIATINF:
 if DIACIN <= DIATINF:
     print("DIATINF MAIORAL 🤪🤪")
     print("RIP DIACIN")
-
-    
