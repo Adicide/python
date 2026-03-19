@@ -1,3 +1,2 @@
-# P
-ython
+# Python
 Python para o IFRN
