@@ -16,3 +16,8 @@ if DIACON <= DIATINF:
 if DIACIN <= DIATINF:
     print("DIATINF MAIORAL 🤪🤪")
     print("RIP DIACIN")
+
+INFOWEB = 26
+
+if INFOWEB == 26:
+    print("MELHOR TURMA DO CNAT")
