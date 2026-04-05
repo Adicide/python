@@ -8,7 +8,7 @@
 # E = False
 
 # Questões intermediárias
-# Para as questões 11 a 20, considere as variáveis adicionais abaixo além das já definidas:
+# Para as questões de número 11 a 20, considere as variáveis adicionais abaixo além das já definidas:
 
 # F = 0
 # G = -3
